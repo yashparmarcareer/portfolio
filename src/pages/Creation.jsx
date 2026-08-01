@@ -6,8 +6,11 @@ import Branding from '../Creationcomponent/Branding'
 import Poster from '../Creationcomponent/Poster'
 import Scneario from '../Creationcomponent/Scneario'
 import Footer from '../workcomponents/Footer'
-
+import { useEffect } from 'react'
 const Creation = () => {
+   useEffect(() => {
+        window.scrollTo(0, 0);
+      }, []);
   return (
     <div  className='bg-[#FBF9F4]'>
         <Navbar/>

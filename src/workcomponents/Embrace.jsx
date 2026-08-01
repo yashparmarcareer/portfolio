@@ -62,15 +62,12 @@ const Embrace = () => {
           <div className="absolute left-[370px] -top-2 w-8 h-20 bg-[#EDB5CF] rotate-[-40deg] rounded-sm opacity-90" />
 
           {/* View Button */}
-          <button className="absolute left-0 bottom-0 px-12 py-3 rounded-full bg-[#F285BD] hover:scale-105 transition-all duration-300">
-
-          <Link
+        <Link
   to="/creation"
-  className="text-[15px] font-[700] font-jakarta text-[#70194E] cursor-pointer  "
+  className="absolute left-0 bottom-0 inline-block px-12 py-3 rounded-full bg-[#F285BD] text-[15px] font-[700] font-jakarta text-[#70194E] transition-all duration-300 hover:scale-105"
 >
   View
 </Link>
-          </button>
 
         </div>
       </div>

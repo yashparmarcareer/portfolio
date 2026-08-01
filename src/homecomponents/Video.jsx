@@ -31,7 +31,7 @@ const Video = () => {
                 <div className="flex-1"></div>
 
                 <div className="px-1 pb-4">
-                    <p className="px-5 text-[16px] leading-8 w-[300px] ">
+                    <p className="px-5 mb-5 text-[16px] leading-8 w-[300px] ">
                         A journey through pixels, materials, and experience.
                     </p>
 
