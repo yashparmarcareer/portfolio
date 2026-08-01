@@ -5,14 +5,14 @@ const Video = () => {
     return (
         <div className='flex flex-row justify-center gap-8'>
             <div>
-                <div className="overflow-hidden rounded-[40px] w-[738px] h-[415px]">
+                <div className="overflow-hidden rounded-[40px] w-[738px] h-[415px] ">
                     <video
-                        src="/video.mp4"
+                        src="/video2.mp4"
                         autoPlay
                         loop
                         muted
                         playsInline
-                        className="w-full h-full object-cover scale-x-[1.15] scale-y-[1.00]"
+                        className="w-full h-full object-cover  "
                     />
                 </div>
 
