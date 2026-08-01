@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import "../App.css";
 
-const photos = ["1.png", "2.png", "3.png", "4.png", "5.png"];
+const photos = ["11.png", "2.png", "3.png", "4.png", "5.png"];
 
 export default function FourPhotos() {
   const [selected, setSelected] = useState(null);
