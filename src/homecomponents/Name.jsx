@@ -6,7 +6,7 @@ const Name = () => {
 
       {/* Subtitle */}
       <h4 className="text-xs font-jakarta tracking-[0.2em] text-[#9A3C70]">
-        MULTIDISCLIPINARY DESIGNER & STORYTELEER
+        MULTIDISCLIPINARY DESIGNER & STORYTELLER
       </h4>
 
       {/* Name */}
