@@ -55,7 +55,7 @@ const FourSection = () => {
 
         <div className='mt-7 '>
           <span className='font-jakarta font-[400] text-[10px] tracking-[2px] leading-[15px]'>2024-2026</span>
-          <h2 className='font-[700] text-[18px] leading-[28px] font-jakarta text-[#1B1C19]'>internships</h2>
+          <h2 className='font-[700] text-[18px] leading-[28px] font-jakarta text-[#1B1C19]'>Internships</h2>
           <div className='flex flex-col gap-4'>
             <p className="font-jakarta font-semibold text-[14px] leading-[20px]">
               IDC IIT Bombay{" "}

@@ -7,6 +7,7 @@ import Contac from '../workcomponents/Contac'
 import Embrace from '../workcomponents/Embrace'
 import Footer from '../workcomponents/Footer'
 import { useEffect } from 'react'
+import Emb from '../workcomponents/Emb'
 const Work = () => {
    useEffect(() => {
     window.scrollTo(0, 0);
@@ -17,6 +18,7 @@ const Work = () => {
       <Scrapbook/>
       <Dhara/>
       <Uniplay/>
+      <Emb/>
       <Contac/>
       <Embrace/>
       <Footer/>

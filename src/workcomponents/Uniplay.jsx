@@ -112,15 +112,7 @@ const UniPlay = () => {
             </div>
 
             {/* Bottom Label */}
-            <div className="absolute -bottom-30 right-0 ">
-
-              <div className="px-6 py-2 rounded-full bg-[#9A3C70] -rotate-1">
-
-                <p className="uppercase tracking-[2px] text-white text-sm font-semibold font-jakarta   ">
-                  Product Design
-                </p>
-              </div>
-            </div>
+            
 
           </div>
         </div>

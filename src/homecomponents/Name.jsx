@@ -5,8 +5,8 @@ const Name = () => {
     <div className="flex flex-col justify-center items-center h-screen overflow-hidden relative gap-3">
 
       {/* Subtitle */}
-      <h4 className="text-xs font-jakarta tracking-[0.2em] text-[#9A3C70]">
-        MULTIDISCLIPINARY DESIGNER & STORYTELLER
+      <h4 className="text-[14px] font-[400] font-jakarta tracking-[0.2em] text-[#9A3C70]">
+        Designer & Storyteller
       </h4>
 
       {/* Name */}

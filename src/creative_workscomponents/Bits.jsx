@@ -34,12 +34,12 @@ const bits = [
     link: "https://www.linkedin.com/feed/update/urn:li:activity:7413087537180839936/",
   },
   {
-    image: "CR6.png",
-    category: "WEBSITE PROTOTYPE",
-    title: "Global Recipes",
+    image: "safepay.png",
+    category: "APP PROTOTYPE",
+    title: "SafePay",
     description:
-      "One platform to explore recipes across multiple cuisines.",
-    link: "https://www.figma.com/proto/mT5R3oEZzBx5i3A2tQ2Ibr/Global-Recipe--Shreya-Agrawal-?node-id=1-2&p=f&t=BrZD3Fq5C2SqTGiN-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2",
+      "An app for elderly adults to make easy digital payments.",
+    link: "https://www.youtube.com/watch?v=bCqHOAiR73c",
   },
   {
     image: "CR7.png",
